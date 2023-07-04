@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 933514778805.dkr.ecr.us-east-1.amazonaws.com/educbank-gitops-appsample/frontendservice
-  version: main-8471792
+  version: main-1
 
 imagePullSecrets: []
 nameOverride: ""
